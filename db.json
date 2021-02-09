@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "kucing",
+      "email": "maulanairfanf@gmail.com"
+    },
+    {
+      "id": 2,
+      "nama": "irfan",
+      "email": "irfanirfanf@gmail.com"
+    },
+    {
+      "id": 3,
+      "nama": "firdian",
+      "email": "firdianirfanf@gmail.com"
+    },
+    {
+      "id": 4,
+      "nama": "jarvis",
+      "email": "maulanairfanf@gmail.com"
+    },
+    {
+      "id": 5,
+      "nama": "haik",
+      "email": "irfanirfanf@gmail.com"
+    },
+    {
+      "id": 6,
+      "nama": "jukyung",
+      "email": "firdianirfanf@gmail.com"
+    },
+    {
+      "id": 7,
+      "nama": "suho",
+      "email": "maulanairfanf@gmail.com"
+    },
+    {
+      "id": 8,
+      "nama": "seojun",
+      "email": "irfanirfanf@gmail.com"
+    },
+    {
+      "id": 9,
+      "nama": "arinda",
+      "email": "firdianirfanf@gmail.com"
+    },
+    {
+      "id": 10,
+      "nama": "novela",
+      "email": "maulanairfanf@gmail.com"
+    },
+    {
+      "id": 11,
+      "nama": "putri",
+      "email": "irfanirfanf@gmail.com"
+    },
+    {
+      "id": 12,
+      "nama": "wkwk",
+      "email": "firdianirfanf@gmail.com"
+    },
+    {
+      "id": 13,
+      "nama": "maulana",
+      "email": "maulanairfanf@gmail.com"
+    },
+    {
+      "id": 2,
+      "nama": "irfan",
+      "email": "irfanirfanf@gmail.com"
+    },
+    {
+      "id": 3,
+      "nama": "firdian",
+      "email": "firdianirfanf@gmail.com"
+    }
+  ]
+}
