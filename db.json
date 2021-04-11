@@ -1,4 +1,4 @@
-{
+[
   "landingPage": {
     "hero": {
       "travelers": 80409,
@@ -347,4 +347,4 @@
     "bankFrom": "BCA",
     "proofPayment": "FileData()"
   }
-}
+]
