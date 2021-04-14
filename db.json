@@ -165,7 +165,8 @@
       "city": "Lampung",
       "unit": "night",
       "isPopular": true,
-      "data": false
+      "data": false,
+      "price": 48
     },
     {
       "id": "asd1293uasdads4",
@@ -176,7 +177,8 @@
       "city": "Lampung",
       "unit": "night",
       "isPopular": true,
-      "data": false
+      "data": false,
+      "price": 51
     },
     {
       "id": "asd1293uasdads5",
@@ -187,7 +189,8 @@
       "city": "Lampung",
       "unit": "night",
       "isPopular": true,
-      "data": false
+      "data": false,
+      "price": 33
     }
   ]
 }
