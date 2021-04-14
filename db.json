@@ -75,7 +75,8 @@
           "name": "television",
           "imageUrl": "/images/icon-tv.svg"
         }
-      ]
+      ],
+      "data": true
     },
     {
       "id": "asd1293uasdads2",
@@ -152,7 +153,8 @@
           "name": "television",
           "imageUrl": "/images/icon-tv.svg"
         }
-      ]
+      ],
+      "data": true
     },
     {
       "id": "asd1293uasdads3",
@@ -161,9 +163,9 @@
       "imageUrl": "/images/image-mostpicked-3.jpg",
       "country": "Indonesia",
       "city": "Lampung",
-
       "unit": "night",
-      "isPopular": true
+      "isPopular": true,
+      "data": false
     },
     {
       "id": "asd1293uasdads4",
@@ -172,9 +174,9 @@
       "imageUrl": "/images/image-mostpicked-4.jpg",
       "country": "Indonesia",
       "city": "Lampung",
-
       "unit": "night",
-      "isPopular": true
+      "isPopular": true,
+      "data": false
     },
     {
       "id": "asd1293uasdads5",
@@ -183,9 +185,9 @@
       "imageUrl": "/images/image-mostpicked-5.jpg",
       "country": "Indonesia",
       "city": "Lampung",
-
       "unit": "night",
-      "isPopular": true
+      "isPopular": true,
+      "data": false
     }
   ]
 }
