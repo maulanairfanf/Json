@@ -2,8 +2,8 @@
   "mostPicked": [
     {
       "id": "asd1293uasdads1",
-      "name": "Village Angga",
-      "type": "Hotel",
+      "name": "Paradise Pool",
+      "type": "Villa",
       "imageUrl": "/images/image-mostpicked-1.jpg",
       "imageUrls": [
         {
@@ -12,15 +12,15 @@
         },
         {
           "id": "asd1293uasdads1",
-          "url": "/images/img-featured-2.jpg"
+          "url": "/images/img-featured-paradise-1.jpg"
         },
         {
           "id": "asd1293uasdads1",
-          "url": "/images/img-featured-3.jpg"
+          "url": "/images/img-featured-paradise-2.jpg"
         }
       ],
       "country": "Indonesia",
-      "city": "Bogor",
+      "city": "Bandung",
       "price": "52",
       "unit": "night",
       "isPopular": true,
@@ -80,21 +80,21 @@
     },
     {
       "id": "asd1293uasdads2",
-      "name": "Village Maulana",
+      "name": "Sumatra Surface",
       "type": "Village",
       "imageUrl": "/images/image-mostpicked-2.jpg",
       "imageUrls": [
         {
           "id": "asd1293uasdads1",
-          "url": "/images/img-featured-1.jpg"
+          "url": "/images/image-mostpicked-2.jpg"
         },
         {
           "id": "asd1293uasdads1",
-          "url": "/images/img-featured-2.jpg"
+          "url": "/images/img-featured-paradise-1.jpg"
         },
         {
           "id": "asd1293uasdads1",
-          "url": "/images/img-featured-3.jpg"
+          "url": "/images/img-featured-paradise-2.jpg"
         }
       ],
       "country": "Indonesia",
