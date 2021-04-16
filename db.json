@@ -7,15 +7,12 @@
       "imageUrl": "/images/image-mostpicked-1.jpg",
       "imageUrls": [
         {
-          "id": "asd1293uasdads1",
           "url": "/images/image-mostpicked-1.jpg"
         },
         {
-          "id": "asd1293uasdads1",
           "url": "/images/img-featured-paradise-1.jpg"
         },
         {
-          "id": "asd1293uasdads1",
           "url": "/images/img-featured-paradise-2.jpg"
         }
       ],
@@ -28,49 +25,41 @@
       "description": "<p>Minimal techno is a minimalist subgenre of techno music. It ischaracterized by a stripped-down aesthetic that exploits the use ofrepetition and understated development. Minimal techno is thought tohave been originally developed in the early 1990s by Detroit-basedproducers Robert Hood and Daniel Bell.</p><p>Such trends saw the demise of the soul-infused techno that typified theoriginal Detroit sound. Robert Hood has noted that he and Daniel Bellboth realized something was missing from techno in the post-rave era.</p><p>Design is a plan or specification for the construction of an object orsystem or for the implementation of an activity or process, or theresult of that plan or specification in the form of a prototype, productor process. The national agency for design: enabling Singapore to usedesign for economic growth and to make lives better.</p>",
       "features": [
         {
-          "id": "asd1293uasdads1",
           "qty": "3",
           "name": "bedroom",
           "imageUrl": "/images/icon-bedroom.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "1",
           "name": "living room",
           "imageUrl": "/images/icon-livingroom.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "2",
           "name": "bath room",
           "imageUrl": "/images/icon-bathroom.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "1",
           "name": "dining room",
           "imageUrl": "/images/icon-diningroom.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "10",
           "name": "mbps",
           "imageUrl": "/images/icon-wifi.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "2",
           "name": "units ready",
           "imageUrl": "/images/icon-airconditioner.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "2",
           "name": "refrigerator",
           "imageUrl": "/images/icon-refrigerator.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "1",
           "name": "television",
           "imageUrl": "/images/icon-tv.svg"
@@ -85,16 +74,19 @@
       "imageUrl": "/images/image-mostpicked-2.jpg",
       "imageUrls": [
         {
-          "id": "asd1293uasdads1",
           "url": "/images/image-mostpicked-2.jpg"
         },
         {
-          "id": "asd1293uasdads1",
           "url": "/images/img-featured-sumatra-1.jpg"
         },
         {
-          "id": "asd1293uasdads1",
           "url": "/images/img-featured-sumatra-2.jpg"
+        },
+        {
+          "url": "/images/img-featured-sumatra-3.jpg"
+        },
+        {
+          "url": "/images/img-featured-sumatra-4.jpg"
         }
       ],
       "country": "Indonesia",
@@ -106,49 +98,41 @@
       "description": "<p>Minimal techno is a minimalist subgenre of techno music. It ischaracterized by a stripped-down aesthetic that exploits the use ofrepetition and understated development. Minimal techno is thought tohave been originally developed in the early 1990s by Detroit-basedproducers Robert Hood and Daniel Bell.</p><p>Such trends saw the demise of the soul-infused techno that typified theoriginal Detroit sound. Robert Hood has noted that he and Daniel Bellboth realized something was missing from techno in the post-rave era.</p><p>Design is a plan or specification for the construction of an object orsystem or for the implementation of an activity or process, or theresult of that plan or specification in the form of a prototype, productor process. The national agency for design: enabling Singapore to usedesign for economic growth and to make lives better.</p>",
       "features": [
         {
-          "id": "asd1293uasdads1",
           "qty": "4",
           "name": "bedroom",
           "imageUrl": "/images/icon-bedroom.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "2",
           "name": "living room",
           "imageUrl": "/images/icon-livingroom.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "2",
           "name": "bath room",
           "imageUrl": "/images/icon-bathroom.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "1",
           "name": "dining room",
           "imageUrl": "/images/icon-diningroom.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "20",
           "name": "mbps",
           "imageUrl": "/images/icon-wifi.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "4",
           "name": "units ready",
           "imageUrl": "/images/icon-airconditioner.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "3",
           "name": "refrigerator",
           "imageUrl": "/images/icon-refrigerator.svg"
         },
         {
-          "id": "asd1293uasdads1",
           "qty": "2",
           "name": "television",
           "imageUrl": "/images/icon-tv.svg"
@@ -170,7 +154,7 @@
     },
     {
       "id": "asd1293uasdads4",
-      "name": "Pahawang Island",
+      "name": "Pahawang Island Resort",
       "type": "Village",
       "imageUrl": "/images/image-mostpicked-4.jpg",
       "country": "Indonesia",
@@ -182,7 +166,7 @@
     },
     {
       "id": "asd1293uasdads5",
-      "name": "Grand Anugrah",
+      "name": "Anugrah Resort",
       "type": "Hotel",
       "imageUrl": "/images/image-mostpicked-5.jpg",
       "country": "Indonesia",
