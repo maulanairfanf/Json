@@ -80,7 +80,7 @@
     },
     {
       "id": "asd1293uasdads2",
-      "name": "Sumatra Surface",
+      "name": "Sumatra Surf",
       "type": "Village",
       "imageUrl": "/images/image-mostpicked-2.jpg",
       "imageUrls": [
@@ -90,11 +90,11 @@
         },
         {
           "id": "asd1293uasdads1",
-          "url": "/images/img-featured-paradise-1.jpg"
+          "url": "/images/img-featured-sumatra-1.jpg"
         },
         {
           "id": "asd1293uasdads1",
-          "url": "/images/img-featured-paradise-2.jpg"
+          "url": "/images/img-featured-sumatra-2.jpg"
         }
       ],
       "country": "Indonesia",
@@ -158,8 +158,8 @@
     },
     {
       "id": "asd1293uasdads3",
-      "name": "Village Arinda",
-      "type": "Village",
+      "name": "Novotel",
+      "type": "Hotel",
       "imageUrl": "/images/image-mostpicked-3.jpg",
       "country": "Indonesia",
       "city": "Lampung",
@@ -170,7 +170,7 @@
     },
     {
       "id": "asd1293uasdads4",
-      "name": "Village Irfan",
+      "name": "Pahawang Island",
       "type": "Village",
       "imageUrl": "/images/image-mostpicked-4.jpg",
       "country": "Indonesia",
@@ -182,8 +182,8 @@
     },
     {
       "id": "asd1293uasdads5",
-      "name": "Village Firdian",
-      "type": "Village",
+      "name": "Grand Anugrah",
+      "type": "Hotel",
       "imageUrl": "/images/image-mostpicked-5.jpg",
       "country": "Indonesia",
       "city": "Lampung",
